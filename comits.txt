@@ -1,0 +1,11 @@
+commit c5f2f6f1a2c6eadaff421eb658bee87b2b1cb4b6
+Author: miguel <miguel.cabrera-04@hotmail.com>
+Date:   Sat Apr 1 17:46:21 2017 -0400
+
+    se agrego un codigo select
+
+commit 738a149a03ead36af131eaaadebf717c90bcaefb
+Author: miguel <miguel.cabrera-04@hotmail.com>
+Date:   Sat Apr 1 17:42:07 2017 -0400
+
+    codigosql
